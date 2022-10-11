@@ -1,0 +1,20 @@
+<?
+include("conexao.php");
+
+$matricula2 = '2016-0005-001a';
+$ano2 = date("Y");
+
+$sql3 = "SELECT Materia FROM materia_pri_qui";
+ 
+ $resultado3 = mysqli_query($conexao,$sql3) or die (mysql_error());
+
+ while ($linha3 = mysqli_fetch_array($resultado3))
+{
+	$materia = $linha3['Materia'];
+ 
+ $sql2 = "INSERT INTO notas(Matricula,Ano,Materia,Bim1,Bim2,Bim3,Bim4,Faltas1,Faltas2,Faltas3,Faltas4) VALUES('$matricula2','$ano2','$materia','-','-','-','-','-','-','-','-')";
+ 
+ $result2 = mysqli_query($conexao,$sql2) or die ("Cadastro Materias para Notas não realizado.");
+}
+
+?>

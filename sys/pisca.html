@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Efeito de Texto Piscando - Blink no IE e FireFox</title>
+<script type="text/javascript">
+var ieBlink = (document.all)?true:false;
+function doBlink(){
+	if(ieBlink){
+		obj = document.getElementsByTagName('BLINK');
+		for(i=0;i<obj.length;i++){
+			tag=obj[i];
+			tag.style.visibility=(tag.style.visibility=='hidden')?'visible':'hidden';
+		}
+	}
+}
+</script>
+</head>
+<body onLoad="if(ieBlink){setInterval('doBlink()',450)}">
+<center>
+<h1>Texto Normal</h1>
+<hr />
+<h1><blink>Texto com Blink</blink</h1>
+</center>
+</body>
+</html>

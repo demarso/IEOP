@@ -1,0 +1,1401 @@
+
+[20/09/2010 - 09:20:41]    /diario/index.php  
+[20/09/2010 - 09:29:13]    /diario/index.php  
+[20/09/2010 - 09:34:18]    /diario/index.php  
+[20/09/2010 - 09:36:39]    /diario/index.php  
+[20/09/2010 - 09:39:12]    /diario/index.php  
+[20/09/2010 - 09:39:31]    /diario/index.php  
+[20/09/2010 - 09:41:17]   /diario/index2.php  
+ 
+[20/09/2010 - 09:46:01]    /diario/index.php  
+[20/09/2010 - 09:46:32]   /diario/index2.php  
+ 
+[20/09/2010 - 09:48:19]   /diario/index2.php  Denilson Soares
+ 
+[20/09/2010 - 09:51:11]   /diario/cadusu.php  Denilson Soares
+ 
+[20/09/2010 - 09:56:22]   /diario/cadusu.php  Denilson Soares
+ 
+[20/09/2010 - 09:57:40]   /diario/cadusu.php  Denilson Soares
+ 
+[20/09/2010 - 09:58:16]   /diario/cadusu2.php  Denilson Soares
+ 
+[20/09/2010 - 09:59:30]   /diario/cadusu2.php  Denilson Soares
+ 
+[20/09/2010 - 10:00:09]    /diario/index.php  
+[20/09/2010 - 10:00:29]   /diario/index2.php  Ana Lucia
+ 
+[20/09/2010 - 10:00:46]    /diario/index.php  
+[20/09/2010 - 10:03:10]    /diario/index.php  
+[20/09/2010 - 10:04:26]    /diario/index.php  
+[20/09/2010 - 11:56:01]    /diario/index1.php  
+[20/09/2010 - 11:56:13]   /diario/index2.php  Denilson Soares
+ 
+[20/09/2010 - 11:58:40]   /diario/cadclimaster.php  
+ 
+[20/09/2010 - 12:38:11]   /diario/cadclimaster.php  
+ 
+[20/09/2010 - 12:40:23]   /diario/cadclimaster.php  
+ 
+[20/09/2010 - 12:44:22]   /diario/cadclimaster.php  
+ 
+[20/09/2010 - 13:05:57]   /diario/index2.php  
+ 
+[20/09/2010 - 13:06:45]   /diario/index2.php  
+ 
+[20/09/2010 - 13:14:34]   /diario/index2.php  
+ 
+[20/09/2010 - 13:14:57]    /diario/index1.php  
+[20/09/2010 - 13:15:09]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:15:14]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:15:26]   /diario/cadcli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:17:14]   /diario/cadcli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:21:56]   /diario/cadcli2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:24:47]   /diario/cadcli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:24:49]   /diario/cadcli2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:25:06]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:25:11]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 13:29:29]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:30:00]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 13:30:11]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:30:14]   /diario/conscli2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:32:33]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:34:15]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:34:18]   /diario/conscli2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:34:24]   /diario/consobra.php  Denilson Soares 
+ 
+[20/09/2010 - 13:35:14]   /diario/index2.php  
+ 
+[20/09/2010 - 13:35:16]    /diario/index1.php  
+[20/09/2010 - 13:35:27]   /diario/index2.php  Ana Lucia
+ 
+[20/09/2010 - 13:35:31]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 13:35:35]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 13:35:40]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 13:35:52]   /diario/cadcli.php  Ana Lucia
+ 
+[20/09/2010 - 13:35:53]   /diario/cadcli.php  Ana Lucia
+ 
+[20/09/2010 - 13:37:28]   /diario/cadcli2.php  Ana Lucia
+ 
+[20/09/2010 - 13:37:39]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 13:37:44]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 13:38:08]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 13:38:11]   /diario/conscli2.php  Ana Lucia
+ 
+[20/09/2010 - 13:38:24]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 13:38:28]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 13:39:47]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 13:39:53]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 13:40:00]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 13:40:06]   /diario/diario.php  Ana Lucia
+ 
+[20/09/2010 - 13:43:58]   /diario/diario.php  Ana Lucia
+ 
+[20/09/2010 - 13:44:10]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 13:44:28]   /diario/cadObra2.php  Ana Lucia
+ 
+[20/09/2010 - 13:44:31]   /diario/diario.php  Ana Lucia
+ 
+[20/09/2010 - 13:45:06]   /diario/diario2.php  Ana Lucia
+ 
+[20/09/2010 - 13:45:13]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 13:45:18]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 13:45:29]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 13:46:38]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 13:46:44]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 13:46:47]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 13:46:51]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 13:47:36]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 13:47:43]   /diario/relpdfdiario1.php  
+ 
+[20/09/2010 - 13:47:46]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 13:47:58]    /diario/index1.php  
+[20/09/2010 - 13:49:11]    /diario/index1.php  
+[20/09/2010 - 13:50:24]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 13:50:28]   /diario/cadcli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:50:30]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 13:50:34]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 14:08:55]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 14:09:25]   /diario/cadObra2.php  Denilson Soares 
+ 
+[20/09/2010 - 14:10:34]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 14:10:36]   /diario/cadObra2.php  Denilson Soares 
+ 
+[20/09/2010 - 14:11:00]   /diario/diario.php  Denilson Soares 
+ 
+[20/09/2010 - 14:11:43]   /diario/diario2.php  Denilson Soares 
+ 
+[20/09/2010 - 14:12:31]   /diario/diario.php  Denilson Soares 
+ 
+[20/09/2010 - 14:12:42]   /diario/diario2.php  Denilson Soares 
+ 
+[20/09/2010 - 14:14:21]   /diario/consdiario.php  Denilson Soares 
+ 
+[20/09/2010 - 14:14:24]   /diario/consdiario2.php  Denilson Soares 
+ 
+[20/09/2010 - 14:14:42]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:08]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:30]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:34]   /diario/consobra.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:38]   /diario/diario.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:41]   /diario/consdiario.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:45]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:49]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[20/09/2010 - 14:16:55]   /diario/cadusu.php  Denilson Soares 
+ 
+[20/09/2010 - 14:20:17]   /diario/cadusu.php  Denilson Soares 
+ 
+[20/09/2010 - 14:22:22]   /diario/cadusu.php  Denilson Soares 
+ 
+[20/09/2010 - 14:23:14]    /diario/index1.php  
+[20/09/2010 - 14:23:26]   /diario/index2.php  Ana Lucia
+ 
+[20/09/2010 - 14:23:38]   /diario/cadcli.php  Ana Lucia
+ 
+[20/09/2010 - 14:23:41]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 14:23:45]   /diario/conscli2.php  Ana Lucia
+ 
+[20/09/2010 - 14:23:49]   /diario/DeleteCli.php  Ana Lucia
+ 
+[20/09/2010 - 14:23:52]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 14:23:57]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 14:24:00]   /diario/consobra2.php  Ana Lucia
+ 
+[20/09/2010 - 14:24:08]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:24:12]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 14:24:17]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:24:20]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 14:24:31]   /diario/relpdfdiario1.php  
+ 
+[20/09/2010 - 14:24:33]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 14:24:37]   /diario/cadusu.php  Ana Lucia
+ 
+[20/09/2010 - 14:26:30]   /diario/cadusu.php  Ana Lucia
+ 
+[20/09/2010 - 14:26:59]   /diario/cadusu2.php  Ana Lucia
+ 
+[20/09/2010 - 14:27:26]   /diario/cadusu.php  Ana Lucia
+ 
+[20/09/2010 - 14:30:12]   /diario/cadusu.php  Ana Lucia
+ 
+[20/09/2010 - 14:30:14]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:31:12]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:33:04]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:37:25]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:41:18]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:42:26]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:44:53]   /diario/DeleteUsu1.php  Ana Lucia
+ 
+[20/09/2010 - 14:47:05]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:47:10]   /diario/DeleteUsu1.php  Ana Lucia
+ 
+[20/09/2010 - 14:49:23]   /diario/cadusu.php  Ana Lucia
+ 
+[20/09/2010 - 14:49:25]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 14:49:29]   /diario/DeleteUsu1.php  Ana Lucia
+ 
+[20/09/2010 - 14:49:42]   /diario/index2.php  Ana Lucia
+ 
+[20/09/2010 - 14:49:53]   /diario/cadcli.php  Ana Lucia
+ 
+[20/09/2010 - 14:49:56]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 14:50:02]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 14:50:08]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 14:50:11]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 14:51:12]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 14:51:15]   /diario/consobra2.php  Ana Lucia
+ 
+[20/09/2010 - 14:51:22]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 14:51:25]   /diario/conscli2.php  Ana Lucia
+ 
+[20/09/2010 - 14:51:30]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 14:52:12]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 14:52:15]   /diario/conscli2.php  Ana Lucia
+ 
+[20/09/2010 - 14:52:22]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 14:52:33]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 14:52:39]   /diario/consobra2.php  Ana Lucia
+ 
+[20/09/2010 - 14:52:47]   /diario/diario.php  Ana Lucia
+ 
+[20/09/2010 - 14:52:56]   /diario/consdiario.php  Ana Lucia
+ 
+[20/09/2010 - 14:53:47]   /diario/consdiario.php  Ana Lucia
+ 
+[20/09/2010 - 14:53:53]   /diario/consdiario2.php  Ana Lucia
+ 
+[20/09/2010 - 14:54:03]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:54:17]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 14:54:21]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:54:24]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 14:54:29]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:54:37]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 14:54:41]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:54:51]   /diario/diario.php  Ana Lucia
+ 
+[20/09/2010 - 14:55:20]   /diario/diario2.php  Ana Lucia
+ 
+[20/09/2010 - 14:55:24]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:55:28]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 14:56:51]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 14:58:13]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 14:58:16]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 14:58:19]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 14:58:35]   /diario/relpdfdiario1.php  
+ 
+[20/09/2010 - 14:58:58]   /diario/relpdfdiario1.php  
+ 
+[20/09/2010 - 14:59:03]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 15:02:41]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 15:02:44]   /diario/cadcli.php  Ana Lucia
+ 
+[20/09/2010 - 15:02:46]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 15:02:48]   /diario/DeleteCli.php  Ana Lucia
+ 
+[20/09/2010 - 15:03:27]   /diario/DeleteCli.php  Ana Lucia
+ 
+[20/09/2010 - 15:03:34]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 15:03:36]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 15:03:43]   /diario/diario.php  Ana Lucia
+ 
+[20/09/2010 - 15:07:46]   /diario/cadcli.php  Ana Lucia
+ 
+[20/09/2010 - 15:07:48]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 15:07:52]   /diario/DeleteCli.php  Ana Lucia
+ 
+[20/09/2010 - 15:07:58]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 15:10:02]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 15:10:08]   /diario/cadObra.php  Ana Lucia
+ 
+[20/09/2010 - 15:10:10]   /diario/consobra.php  Ana Lucia
+ 
+[20/09/2010 - 15:10:17]   /diario/relpdfdiarioAll.php  Ana Lucia
+ 
+[20/09/2010 - 15:10:20]   /diario/relpdfdiario.php  Ana Lucia
+ 
+[20/09/2010 - 15:10:26]   /diario/cadusu.php  Ana Lucia
+ 
+[20/09/2010 - 15:10:29]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 15:11:54]   /diario/cadusu.php  Ana Lucia
+ 
+[20/09/2010 - 15:11:58]   /diario/DeleteUsu.php  Ana Lucia
+ 
+[20/09/2010 - 15:12:08]    /diario/index1.php  
+[20/09/2010 - 15:12:19]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:12:23]   /diario/cadcli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:12:26]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:12:38]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:12:45]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:12:50]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[20/09/2010 - 15:12:57]   /diario/cadusu.php  Denilson Soares 
+ 
+[20/09/2010 - 15:23:32]    /diario/index1.php  
+[20/09/2010 - 15:23:37]    /diario/index1.php  
+[20/09/2010 - 15:24:03]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:24:06]   /diario/cadcli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:24:10]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:24:13]   /diario/conscli2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:25:37]   /diario/conscli2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:25:43]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:25:46]   /diario/conscli2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:25:51]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[20/09/2010 - 15:26:55]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 15:27:28]   /diario/consobra.php  Denilson Soares 
+ 
+[20/09/2010 - 15:27:31]   /diario/consobra2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:29:15]   /diario/consobra2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:29:23]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 15:29:26]   /diario/consobra.php  Denilson Soares 
+ 
+[20/09/2010 - 15:29:28]   /diario/consobra2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:29:33]   /diario/diario.php  Denilson Soares 
+ 
+[20/09/2010 - 15:29:38]   /diario/consdiario.php  Denilson Soares 
+ 
+[20/09/2010 - 15:29:41]   /diario/consdiario2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:30:36]   /diario/consdiario2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:30:44]   /diario/diario.php  Denilson Soares 
+ 
+[20/09/2010 - 15:31:57]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[20/09/2010 - 15:32:01]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[20/09/2010 - 15:32:06]   /diario/relpdfdiarioAll1.php  
+ 
+[20/09/2010 - 15:32:15]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[20/09/2010 - 15:32:33]   /diario/cadusu.php  Denilson Soares 
+ 
+[20/09/2010 - 15:32:58]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[20/09/2010 - 15:35:01]    /diario/index1.php  
+[20/09/2010 - 15:35:13]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:37:40]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:38:07]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:38:53]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:40:10]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:41:11]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:42:02]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 15:42:36]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:05:45]    /diario/index1.php  
+[20/09/2010 - 16:05:55]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:07:28]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:08:59]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:10:10]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:11:18]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:11:51]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:14:10]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:14:37]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:15:20]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:23:58]   /diario/index2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:01]   /diario/cadcli.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:04]   /diario/conscli.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:08]   /diario/conscli2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:15]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:17]   /diario/consobra.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:20]   /diario/cadObra.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:36]   /diario/consobra.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:41]   /diario/consobra2.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:45]   /diario/diario.php  Denilson Soares 
+ 
+[20/09/2010 - 16:24:56]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[20/09/2010 - 16:25:01]    /diario/index1.php  
+[20/09/2010 - 16:25:13]   /diario/index2.php  Ana Lucia
+ 
+[20/09/2010 - 16:25:21]   /diario/cadcli.php  Ana Lucia
+ 
+[20/09/2010 - 16:25:28]   /diario/conscli.php  Ana Lucia
+ 
+[20/09/2010 - 16:25:31]   /diario/conscli2.php  Ana Lucia
+ 
+[20/09/2010 - 16:31:39]    /diario/index1.php  
+[20/09/2010 - 16:44:29]    /diario/index1.php  
+[21/09/2010 - 10:35:29]    /diario/index1.php  
+[21/09/2010 - 11:00:57]    /diario/index1.php  
+[21/09/2010 - 11:01:07]    /diario/index1.php  
+[21/09/2010 - 11:06:11]    /diario/index1.php  
+[21/09/2010 - 11:06:31]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:08:00]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:08:32]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:09:18]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:10:06]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:10:17]    /diario/index1.php  
+[21/09/2010 - 11:12:25]    /diario/index1.php  
+[21/09/2010 - 11:12:37]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:13:36]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:13:48]    /diario/index1.php  
+[21/09/2010 - 11:13:59]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:14:12]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:14:16]   /diario/conscli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:14:31]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:16:27]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:17:11]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:18:55]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:19:03]   /diario/consobra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:19:06]   /diario/consobra2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:20:22]    /diario/index1.php  
+[21/09/2010 - 11:20:42]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:20:47]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:20:51]   /diario/conscli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:20:56]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:21:04]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:21:21]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:24:01]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:25:31]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:25:36]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:25:38]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:26:55]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:27:04]   /diario/consobra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:27:07]   /diario/consobra2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:27:13]   /diario/conscli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:27:15]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:27:18]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[21/09/2010 - 11:27:23]   /diario/relpdfdiarioAll1.php  
+ 
+[21/09/2010 - 11:27:28]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[21/09/2010 - 11:27:42]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:28:06]    /diario/index1.php  
+[21/09/2010 - 11:28:19]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:28:25]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:34:41]    /diario/index1.php  
+[21/09/2010 - 11:34:45]    /diario/index1.php  
+[21/09/2010 - 11:38:08]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:38:27]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:41:40]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 11:41:51]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:41:55]   /diario/consobra.php  Denilson Soares 
+ 
+[21/09/2010 - 11:42:11]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 11:42:19]    /diario/index1.php  
+[21/09/2010 - 11:42:30]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 15:50:40]    /diario/index1.php  
+[21/09/2010 - 15:50:55]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 15:50:59]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 15:51:07]   /diario/conscli.php  Denilson Soares 
+ 
+[21/09/2010 - 15:51:12]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 15:51:15]   /diario/consobra.php  Denilson Soares 
+ 
+[21/09/2010 - 15:51:19]   /diario/diario.php  Denilson Soares 
+ 
+[21/09/2010 - 15:53:52]   /diario/diario.php  Denilson Soares 
+ 
+[21/09/2010 - 15:55:34]   /diario/diario.php  Denilson Soares 
+ 
+[21/09/2010 - 15:56:37]    /diario/index1.php  
+[21/09/2010 - 15:56:49]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 15:56:57]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 15:57:07]   /diario/conscli.php  Denilson Soares 
+ 
+[21/09/2010 - 15:57:15]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 15:57:17]   /diario/consobra.php  Denilson Soares 
+ 
+[21/09/2010 - 15:57:30]   /diario/diario.php  Denilson Soares 
+ 
+[21/09/2010 - 15:57:38]   /diario/consdiario.php  Denilson Soares 
+ 
+[21/09/2010 - 15:57:42]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[21/09/2010 - 15:57:45]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[21/09/2010 - 16:00:08]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[21/09/2010 - 16:00:13]   /diario/cadcli.php  Denilson Soares 
+ 
+[21/09/2010 - 16:00:24]   /diario/cadObra.php  Denilson Soares 
+ 
+[21/09/2010 - 16:00:28]   /diario/conscli.php  Denilson Soares 
+ 
+[21/09/2010 - 16:00:33]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 16:02:20]    /diario/index1.php  
+[21/09/2010 - 16:02:35]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 16:02:53]   /diario/conscli.php  Denilson Soares 
+ 
+[21/09/2010 - 16:03:00]   /diario/conscli2.php  Denilson Soares 
+ 
+[21/09/2010 - 16:03:15]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[21/09/2010 - 16:03:26]   /diario/relpdfdiarioAll1.php  
+ 
+[21/09/2010 - 16:03:47]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[21/09/2010 - 16:03:55]    /diario/index1.php  
+[21/09/2010 - 16:04:11]   /diario/index2.php  Ana Lucia
+ 
+[21/09/2010 - 16:04:19]   /diario/conscli.php  Ana Lucia
+ 
+[21/09/2010 - 16:04:26]   /diario/conscli2.php  Ana Lucia
+ 
+[21/09/2010 - 16:05:04]    /diario/index1.php  
+[21/09/2010 - 16:05:40]   /diario/index2.php  Denilson Soares 
+ 
+[21/09/2010 - 16:05:59]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 07:08:20]    /diario/index1.php  
+[22/09/2010 - 07:08:39]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 07:09:37]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 07:31:10]    /diario/index1.php  
+[22/09/2010 - 07:31:23]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 07:32:07]   /diario/index2.php  
+ 
+[22/09/2010 - 07:34:16]    /diario/index1.php  
+[22/09/2010 - 07:37:53]    /diario/index1.php  
+[22/09/2010 - 07:38:09]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 07:38:22]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 07:41:57]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 07:44:05]    /diario/index1.php  
+[22/09/2010 - 07:44:14]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 07:44:22]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 07:44:26]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 07:46:02]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 07:46:08]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 07:47:10]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 07:49:19]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:13:49]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:15:40]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:16:42]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:17:36]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:19:21]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:19:40]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:19:45]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:19:48]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:19:54]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:19:57]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:23:07]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:23:11]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:23:14]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:23:33]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:25:03]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:25:19]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:28:24]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:28:36]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:30:26]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:31:18]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:31:24]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:33:31]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:33:38]   /diario/cadcli2.php  Denilson Soares 
+ 
+[22/09/2010 - 08:36:52]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:37:06]   /diario/DeleteCli1.php  Denilson Soares 
+ 
+[22/09/2010 - 08:37:09]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:42:07]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:42:10]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:43:00]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:43:04]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 08:43:09]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:43:12]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:43:15]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 08:43:31]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 08:44:11]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 08:44:20]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 08:45:06]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 08:45:08]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 08:45:17]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:46:15]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:46:53]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:47:44]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:48:44]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:50:13]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:53:15]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:55:47]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 08:59:13]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:01:03]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:03:09]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:05:01]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:06:41]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:08:16]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:13:13]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:14:43]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:17:55]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:18:27]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:18:55]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:20:06]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:20:43]    /diario/index1.php  
+[22/09/2010 - 09:27:58]    /diario/index1.php  
+[22/09/2010 - 09:28:16]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:28:21]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:28:40]    /diario/index1.php  
+[22/09/2010 - 09:28:51]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:28:54]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:28:59]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:29:04]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:20]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:24]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:27]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:33]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:38]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:45]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:48]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:53]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:35:57]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:36:19]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:36:23]   /diario/consdiario2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:36:26]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:37:42]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:37:50]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:37:53]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 09:37:56]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:38:00]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:38:32]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:38:36]   /diario/consdiario2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:38:42]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[22/09/2010 - 09:39:41]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[22/09/2010 - 09:39:49]   /diario/relpdfdiarioAll1.php  
+ 
+[22/09/2010 - 09:39:52]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[22/09/2010 - 09:39:55]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:40:01]   /diario/cadusu.php  Denilson Soares 
+ 
+[22/09/2010 - 09:40:55]   /diario/cadusu.php  Denilson Soares 
+ 
+[22/09/2010 - 09:40:58]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[22/09/2010 - 09:41:57]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:02]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:08]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:11]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:15]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:17]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:19]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:23]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:27]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:29]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:31]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:34]   /diario/cadusu.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:39]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:51]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:53]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 09:42:57]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 09:43:03]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 10:13:21]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 10:13:27]   /diario/alteraCli.php  Denilson Soares 
+ 
+[22/09/2010 - 10:13:31]   /diario/alteraCli2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:14:52]   /diario/alteraCli2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:16:24]   /diario/alteraCli.php  Denilson Soares 
+ 
+[22/09/2010 - 10:16:26]   /diario/alteraCli2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:16:33]   /diario/alteraCli3.php  Denilson Soares 
+ 
+[22/09/2010 - 10:18:09]   /diario/alteraCli3.php  Denilson Soares 
+ 
+[22/09/2010 - 10:18:16]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 10:18:19]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:18:30]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:21:38]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 10:21:44]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 10:43:22]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 10:43:37]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:43:46]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:47:53]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:47:53]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:47:58]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:49:44]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:49:48]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:50:17]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:50:43]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:50:57]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 10:51:04]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:51:08]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:51:43]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:51:48]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:52:07]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 10:52:10]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:52:12]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:55:14]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:55:18]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 10:55:36]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 10:55:39]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 10:55:41]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:06:32]   /diario/bkp.php  
+ 
+[22/09/2010 - 11:06:45]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:06:59]   /diario/bkp.php  
+ 
+[22/09/2010 - 11:07:54]   /diario/bkp.php  
+ 
+[22/09/2010 - 11:09:14]   /diario/bkp.php  
+ 
+[22/09/2010 - 11:09:18]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:11:32]   /diario/bkp.php  
+ 
+[22/09/2010 - 11:11:34]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:11:40]   /diario/bkp.php  
+ 
+[22/09/2010 - 11:11:45]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:12:10]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:12:43]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:18:55]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:25:43]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:25:48]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:25:54]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:26:35]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:26:41]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:26:45]   /diario/DeleteObra1.php  Denilson Soares 
+ 
+[22/09/2010 - 11:30:12]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:30:21]   /diario/DeleteObra1.php  Denilson Soares 
+ 
+[22/09/2010 - 11:30:29]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:30:32]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:32:00]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:33:20]   /diario/DeleteCli1.php  Denilson Soares 
+ 
+[22/09/2010 - 11:33:28]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:33:31]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:35:02]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:35:07]   /diario/DeleteObra1.php  Denilson Soares 
+ 
+[22/09/2010 - 11:35:10]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:35:13]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:35:25]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:36:05]   /diario/cadObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:36:14]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:36:17]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:00]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:06]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:11]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:36]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:41]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:45]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:55]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:41:59]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:09]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:13]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:16]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:26]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:31]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:45]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:51]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:53]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:42:59]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:45:55]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:46:11]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:46:29]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:46:38]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:46:40]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:49:14]   /diario/alteraCli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:49:17]   /diario/alteraCli2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:49:32]   /diario/alteraCli3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:49:35]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:49:38]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:50:36]   /diario/alteraCli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:50:39]   /diario/alteraCli2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:50:43]   /diario/alteraCli3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:50:46]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 11:50:49]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:50:57]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:51:02]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:51:22]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:51:26]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:51:28]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:53:21]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:53:26]   /diario/DeleteObra1.php  Denilson Soares 
+ 
+[22/09/2010 - 11:53:29]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:53:32]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:53:35]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:01]   /diario/cadObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:05]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:08]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:18]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:23]   /diario/alteraObra2.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:36]   /diario/alteraObra3.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:47]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 11:54:50]   /diario/consobra2.php  Denilson Soares 
+ 
+[22/09/2010 - 13:50:34]   /diario/conscli.php  
+ 
+[22/09/2010 - 13:50:40]    /diario/index1.php  
+[22/09/2010 - 13:50:57]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 13:51:04]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:51:14]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 13:51:18]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:53:00]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:54:23]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:54:33]   /diario/conscli2.php  Denilson Soares 
+ 
+[22/09/2010 - 13:54:38]   /diario/alteraCli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:55:46]   /diario/alteraCli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:55:49]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:57:28]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 13:57:34]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 13:57:39]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 13:58:27]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 13:58:32]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:00:25]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:00:49]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:01:31]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:01:35]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:01:40]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:02:27]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:02:34]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[22/09/2010 - 14:04:01]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[22/09/2010 - 14:04:05]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:04:53]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:04:58]   /diario/cadcli.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:01]   /diario/conscli.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:03]   /diario/alteraCli.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:06]   /diario/DeleteCli.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:08]   /diario/cadObra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:10]   /diario/consobra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:13]   /diario/alteraObra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:15]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:17]   /diario/diario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:24]   /diario/consdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:30]   /diario/relpdfdiarioAll.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:33]   /diario/relpdfdiario.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:43]   /diario/cadusu.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:43]   /diario/cadusu.php  Denilson Soares 
+ 
+[22/09/2010 - 14:05:48]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[22/09/2010 - 14:06:44]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[22/09/2010 - 14:14:06]   /diario/cadusu.php  Denilson Soares 
+ 
+[22/09/2010 - 14:14:16]   /diario/DeleteUsu.php  Denilson Soares 
+ 
+[22/09/2010 - 14:36:52]   /diario/index2.php  
+ 
+[22/09/2010 - 14:37:01]    /diario/index1.php  
+[22/09/2010 - 17:23:18]    /diario/index1.php  
+[22/09/2010 - 17:23:33]   /diario/index2.php  
+ 
+[22/09/2010 - 17:37:06]    /diario/index1.php  
+[22/09/2010 - 17:38:35]    /diario/index1.php  
+[22/09/2010 - 17:39:08]    /diario/index1.php  
+[22/09/2010 - 17:41:13]    /diario/index1.php  
+[22/09/2010 - 17:42:33]    /diario/index1.php  
+[22/09/2010 - 17:42:41]   /diario/index2.php  Denilson Soares 
+ 
+[22/09/2010 - 17:42:45]   /diario/cadcli.php  Denilson Soares 
+ 
+[23/09/2010 - 07:17:27]   /diario/index2.php  
+ 
+[23/09/2010 - 07:30:28]   /diario/index2.php  
+ 
+[23/09/2010 - 07:30:31]    /diario/index1.php  
+[23/09/2010 - 07:30:49]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 07:40:49]   /diario/index2.php  
+ 
+[23/09/2010 - 07:40:52]    /diario/index1.php  
+[23/09/2010 - 07:41:01]   /diario/index2.php  valnei
+ 
+[23/09/2010 - 07:41:13]   /diario/cadcli.php  valnei
+ 
+[23/09/2010 - 07:41:27]   /diario/cadcli2.php  valnei
+ 
+[23/09/2010 - 07:41:30]   /diario/cadObra.php  valnei
+ 
+[23/09/2010 - 07:41:58]   /diario/cadObra2.php  valnei
+ 
+[23/09/2010 - 07:44:11]   /diario/cadObra.php  valnei
+ 
+[23/09/2010 - 07:44:14]   /diario/cadObra2.php  valnei
+ 
+[23/09/2010 - 07:46:04]   /diario/cadObra.php  valnei
+ 
+[23/09/2010 - 07:46:31]   /diario/cadObra2.php  valnei
+ 
+[23/09/2010 - 07:51:57]   /diario/index2.php  valnei
+ 
+[23/09/2010 - 07:52:07]   /diario/cadcli.php  valnei
+ 
+[23/09/2010 - 08:05:25]    /diario/index1.php  
+[23/09/2010 - 08:05:35]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:05:38]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[23/09/2010 - 08:05:45]   /diario/DeleteObra1.php  Denilson Soares 
+ 
+[23/09/2010 - 08:06:43]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[23/09/2010 - 08:06:54]   /diario/cadObra.php  Denilson Soares 
+ 
+[23/09/2010 - 08:07:05]   /diario/cadObra2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:07:08]   /diario/DeleteObra.php  Denilson Soares 
+ 
+[23/09/2010 - 08:07:13]   /diario/DeleteObra1.php  Denilson Soares 
+ 
+[23/09/2010 - 08:08:01]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:15:48]    /diario/index1.php  
+[23/09/2010 - 08:16:09]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:16:56]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:26:52]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:28:42]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:29:06]    /diario/index1.php  
+[23/09/2010 - 08:30:03]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:38:48]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:39:14]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:40:55]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:41:25]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:46:10]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:46:59]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:48:31]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:49:05]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:51:09]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:54:00]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:54:36]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:55:50]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:56:50]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 08:57:01]   /diario/cadcli.php  Denilson Soares 
+ 
+[23/09/2010 - 08:57:13]    /diario/index1.php  
+[23/09/2010 - 08:57:32]   /diario/index2.php  Ana Lucia
+ 
+[23/09/2010 - 09:06:53]   /diario/index2.php  
+ 
+[23/09/2010 - 09:06:56]    /diario/index1.php  
+[23/09/2010 - 09:07:11]    /diario/index1.php  
+[23/09/2010 - 09:07:25]   /diario/index2.php  Emerson Medeiros
+ 
+[23/09/2010 - 09:07:38]   /diario/cadcli.php  Emerson Medeiros
+ 
+[23/09/2010 - 09:07:45]   /diario/consobra.php  Emerson Medeiros
+ 
+[23/09/2010 - 09:07:49]   /diario/relpdfdiario.php  Emerson Medeiros
+ 
+[23/09/2010 - 09:15:23]    /diario/index1.php  
+[23/09/2010 - 09:15:38]   /diario/index2.php  Denilson Soares 
+ 
+[23/09/2010 - 09:19:13]    /diario/index1.php  
+[23/09/2010 - 09:19:25]   /diario/index2.php  Denilson Soares 
+ 

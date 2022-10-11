@@ -1,0 +1,4 @@
+<IfModule mod_suphp.c>
+	suPHP_ConfigPath /home/ieopcom/php.ini
+</IfModule>
+

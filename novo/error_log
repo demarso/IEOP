@@ -1,0 +1,3 @@
+[07-Mar-2021 15:44:26 America/Fortaleza] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home3/ieopcom/public_html/novo/index.php on line 28
+[07-Mar-2021 15:44:26 America/Fortaleza] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home3/ieopcom/public_html/novo/index.php on line 28
+[07-Mar-2021 15:44:26 America/Fortaleza] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home3/ieopcom/public_html/novo/index.php on line 28

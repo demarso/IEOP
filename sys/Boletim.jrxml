@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<!-- Created with iReport - A designer for JasperReports -->
+<!DOCTYPE jasperReport PUBLIC "//JasperReports//DTD Report Design//EN" "http://jasperreports.sourceforge.net/dtds/jasperreport.dtd">
+<jasperReport
+		 name="Boletim"
+		 columnCount="12"
+		 printOrder="Vertical"
+		 orientation="Landscape"
+		 pageWidth="842"
+		 pageHeight="595"
+		 columnWidth="56"
+		 columnSpacing="0"
+		 leftMargin="113"
+		 rightMargin="56"
+		 topMargin="56"
+		 bottomMargin="56"
+		 whenNoDataType="NoPages"
+		 isTitleNewPage="false"
+		 isSummaryNewPage="false">
+	<property name="ireport.scriptlethandling" value="2" />
+	<property name="ireport.encoding" value="UTF-8" />
+	<import value="java.util.*" />
+	<import value="net.sf.jasperreports.engine.*" />
+	<import value="net.sf.jasperreports.engine.data.*" />
+
+
+	<field name="Materia" class="java.lang.String"/>
+
+		<background>
+			<band height="0"  isSplitAllowed="true" >
+			</band>
+		</background>
+		<title>
+			<band height="40"  isSplitAllowed="true" >
+				<printWhenExpression><![CDATA[BOLETIM ESCOLAR]]></printWhenExpression>
+				<image  evaluationTime="Now" hyperlinkType="None"  hyperlinkTarget="Self" >
+					<reportElement
+						x="21"
+						y="-32"
+						width="96"
+						height="72"
+						key="image-1"/>
+					<box></box>
+					<graphicElement stretchType="NoStretch"/>
+					<imageExpression class="java.lang.String"><![CDATA["D:\\wamp\\www\\escola\\img\\Logo_IEOP.png"]]></imageExpression>
+				</image>
+				<staticText>
+					<reportElement
+						x="338"
+						y="-26"
+						width="320"
+						height="24"
+						key="staticText-1"/>
+					<box></box>
+					<textElement>
+						<font size="14"/>
+					</textElement>
+				<text><![CDATA[Instituto Educacional Oliveira Pessoa Rua Dona ]]></text>
+				</staticText>
+				<staticText>
+					<reportElement
+						x="338"
+						y="-2"
+						width="320"
+						height="31"
+						key="staticText-2"/>
+					<box></box>
+					<textElement>
+						<font/>
+					</textElement>
+				<text><![CDATA[Castorina, 93, Vila Operária, Nova Iguaçu Tel: (21)2695-6355 Email: secretaria@ieop.com.br]]></text>
+				</staticText>
+				<staticText>
+					<reportElement
+						x="148"
+						y="6"
+						width="159"
+						height="29"
+						key="staticText-4"/>
+					<box></box>
+					<textElement>
+						<font size="16"/>
+					</textElement>
+				<text><![CDATA[BOLETIM ESCOLAR]]></text>
+				</staticText>
+			</band>
+		</title>
+		<pageHeader>
+			<band height="33"  isSplitAllowed="true" >
+				<staticText>
+					<reportElement
+						x="338"
+						y="-5"
+						width="241"
+						height="17"
+						key="staticText-3"/>
+					<box></box>
+					<textElement>
+						<font/>
+					</textElement>
+				<text><![CDATA[Portaria de Autorização: nº 798 - D.O. 25/11/98]]></text>
+				</staticText>
+			</band>
+		</pageHeader>
+		<columnHeader>
+			<band height="24"  isSplitAllowed="true" >
+			</band>
+		</columnHeader>
+		<detail>
+			<band height="100"  isSplitAllowed="true" >
+			</band>
+		</detail>
+		<columnFooter>
+			<band height="30"  isSplitAllowed="true" >
+			</band>
+		</columnFooter>
+		<pageFooter>
+			<band height="50"  isSplitAllowed="true" >
+			</band>
+		</pageFooter>
+		<lastPageFooter>
+			<band height="50"  isSplitAllowed="true" >
+			</band>
+		</lastPageFooter>
+		<summary>
+			<band height="50"  isSplitAllowed="true" >
+			</band>
+		</summary>
+</jasperReport>

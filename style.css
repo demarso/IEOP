@@ -1,0 +1,6 @@
+.classe{
+        background:#101010;
+        opacity: 0.1;
+        filter:alpha(opacity=10);
+        zoom:1;
+}
